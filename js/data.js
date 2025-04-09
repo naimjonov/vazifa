@@ -1,17 +1,7 @@
 export default [
   {
-    title: "Example 3",
-    github: "https://github.com/naimjonov",
-    vercel: "https://vercel.com/new?onboarding=true",
-  },
-  {
-    title: "Example 2",
-    github: "https://github.com/naimjonov",
-    vercel: "https://vercel.com/new?onboarding=true",
-  },
-  {
-    title: "Example",
-    github: "example.uz",
-    vercel: "example.uz",
+    title: "figma3",
+    github: "https://github.com/naimjonov/figm3",
+    vercel: "https://figm3.vercel.app/",
   },
 ];
