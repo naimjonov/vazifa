@@ -1,5 +1,25 @@
 export default [
   {
+    title: "recipe-page",
+    github: "https://github.com/naimjonov/figm3",
+    vercel: "figm3.vercel.app",
+  },
+  {
+    title: "recipe-page",
+    github: "https://github.com/naimjonov/recipe-pagee",
+    vercel: "https://recipe-page-22gz.vercel.app/",
+  },
+  {
+    title: "contact-form",
+    github: "https://github.com/naimjonov/recipe-page",
+    vercel: "recipe-page-one-xi.vercel.app",
+  },
+  {
+    title: "contact-form",
+    github: "https://github.com/naimjonov/recipe-page",
+    vercel: "https://recipe-page-one-xi.vercel.app/",
+  },
+  {
     title: "bacround-video",
     github: "https://github.com/naimjonov/10-dars",
     vercel: "https://10-dars-two-nu.vercel.app/",
