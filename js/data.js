@@ -1,6 +1,6 @@
 export default [
   {
-    title: "recipe-page",
+    title: "intro-section-with-dropdown-navigation",
     github: "https://github.com/naimjonov/figm3",
     vercel: "figm3.vercel.app",
   },
@@ -13,11 +13,6 @@ export default [
     title: "contact-form",
     github: "https://github.com/naimjonov/recipe-page",
     vercel: "recipe-page-one-xi.vercel.app",
-  },
-  {
-    title: "contact-form",
-    github: "https://github.com/naimjonov/recipe-page",
-    vercel: "https://recipe-page-one-xi.vercel.app/",
   },
   {
     title: "bacround-video",
