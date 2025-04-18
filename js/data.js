@@ -6,7 +6,7 @@ export default [
   },
   {
     title: "recipe-page",
-    github: "hhttps://github.com/naimjonov/recipe-pagee",
+    github: "https://github.com/naimjonov/recipe-pagee",
     vercel: "https://recipe-page-22gz.vercel.app/",
   },
   {
