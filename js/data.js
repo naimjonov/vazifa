@@ -7,7 +7,7 @@ export default [
   {
     title: "recipe-page",
     github: "https://github.com/naimjonov/recipe-pagee",
-    vercel: "https://recipe-page-22gz.vercel.app/",
+    vercel: "recipe-page-22gz.vercel.app",
   },
   {
     title: "contact-form",
