@@ -2,7 +2,7 @@ export default [
   {
     title: "intro-section-with-dropdown-navigation",
     github: "https://github.com/naimjonov/figm3",
-    vercel: "figm3.vercel.app",
+    vercel: "https://figm3.vercel.app/",
   },
   {
     title: "recipe-page",
