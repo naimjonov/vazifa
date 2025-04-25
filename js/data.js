@@ -2,7 +2,7 @@ export default [
   {
     title: "imyteam-multi",
     github: "https://github.com/naimjonov/1-dars",
-    vercel: "hhttps://1-dars-teal.vercel.app/",
+    vercel: "https://1-dars-teal.vercel.app/",
   },
   {
     title: "intro-section-with-dropdown-navigation",
