@@ -77,6 +77,38 @@ main {
   padding-bottom: 80px;
 }
 
+.header__img {
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+  background-image: url(../img/photo_2025-02-25_14-19-27.jpg);
+  block-size: cover;
+  background-position: center;
+  margin: 200px;
+  transform-origin: left top;
+  animation-name: boxAnimation;
+  animation-duration: 2s;
+  animation-duration: alternate;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes boxAnimation {
+  0% {
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%) ;
+  }
+
+  25% {
+    clip-path: polygon (25%
+0%, 100% 0%, 75% 100%, 0% 100%);
+  }
+
+  50% {
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
+  }
+}
+
+
 .portfolio {
 }
 .portfolio__container {
