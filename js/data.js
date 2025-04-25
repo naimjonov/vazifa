@@ -1,5 +1,10 @@
 export default [
   {
+    title: "imyteam-multi",
+    github: "https://github.com/naimjonov/1-dars",
+    vercel: "hhttps://1-dars-teal.vercel.app/",
+  },
+  {
     title: "intro-section-with-dropdown-navigation",
     github: "https://github.com/naimjonov/figm3",
     vercel: "https://figm3.vercel.app/",
