@@ -2,7 +2,7 @@ export default [
   {
     title: "single-page-design",
     github: "https://github.com/naimjonov/single-page-design",
-    vercel: "https://1-dars-teal.vercel.app/",
+    vercel: "https://single-page-design-rho.vercel.app/",
   },
   {
     title: "imyteam-multi",
