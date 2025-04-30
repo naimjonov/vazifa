@@ -79,8 +79,8 @@ main {
 
 .header__img {
   display: inline-block;
-  width: 400px;
-  height: 400px;
+  width: 200px;
+  height: 200px;
   background-image: url(../img/photo_2025-02-25_14-19-27.jpg);
   block-size: cover;
   background-position: center;

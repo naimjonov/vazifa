@@ -1,8 +1,13 @@
 export default [
   {
+    title: "single-page-design",
+    github: "https://github.com/naimjonov/single-page-design",
+    vercel: "https://1-dars-teal.vercel.app/",
+  },
+  {
     title: "imyteam-multi",
     github: "https://github.com/naimjonov/1-dars",
-    vercel: "https://1-dars-teal.vercel.app/",
+    vercel: "https://single-page-design-rho.vercel.app/",
   },
   {
     title: "intro-section-with-dropdown-navigation",
