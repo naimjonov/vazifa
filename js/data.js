@@ -1,5 +1,15 @@
 export default [
   {
+    title: "testimonials-grid",
+    github: "https://github.com/naimjonov/testimonials-grid",
+    vercel: "https://bento-grid-lamo.vercel.app/",
+  },
+  {
+    title: "bento-grid",
+    github: "https://github.com/naimjonov/bento-grid",
+    vercel: "https://bento-grid-nine-bay.vercel.app/",
+  },
+  {
     title: "single-page-design",
     github: "https://github.com/naimjonov/single-page-design",
     vercel: "https://single-page-design-rho.vercel.app/",
