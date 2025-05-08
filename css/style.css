@@ -115,15 +115,18 @@ main {
 }
 .container {
 }
+
 .portfolio__list {
   display: flex;
   flex-direction: column;
   gap: 30px;
 }
+
 .portfolio__item {
   border-bottom: 2px solid #ccc;
   padding-bottom: 10px;
 }
+
 .portfolio__content {
   display: flex;
   flex-direction: column;
@@ -140,18 +143,22 @@ main {
   font-size: 25px;
   opacity: 50%;
 }
+
 .portfolio__title {
   font-size: 25px;
 }
+
 .portfolio__links {
   margin-left: 30px;
   display: flex;
   align-items: center;
   gap: 30px;
 }
+
 .portfolio__link {
   font-size: 18px;
 }
+
 .fa-brands {
 }
 .fa-github {
@@ -164,6 +171,7 @@ main {
 .header__title {
   font-size: 80px;
 }
+
 .header__description {
 }
 

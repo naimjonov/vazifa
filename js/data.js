@@ -1,5 +1,10 @@
 export default [
   {
+    title: "tech book club",
+    github: "https://github.com/naimjonov/cccc",
+    vercel: "https://cccc-chi.vercel.app/",
+  },
+  {
     title: "testimonials-grid",
     github: "https://github.com/naimjonov/testimonials-grid",
     vercel: "https://bento-grid-lamo.vercel.app/",
