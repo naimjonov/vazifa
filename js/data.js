@@ -1,5 +1,10 @@
 export default [
   {
+    title: "single-page",
+    github: "https://github.com/naimjonov/design-solution-1",
+    vercel: "https://design-solution-1-tznt.vercel.app/",
+  },
+  {
     title: "tech book club",
     github: "https://github.com/naimjonov/cccc",
     vercel: "https://cccc-chi.vercel.app/",
