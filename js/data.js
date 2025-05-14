@@ -1,5 +1,20 @@
 export default [
   {
+    title: "product-preview-card-component",
+    github: "https://github.com/naimjonov/10-3-dars",
+    vercel: "https://10-3-dars.vercel.app/",
+  },
+  {
+    title: "news-homepage",
+    github: "https://github.com/naimjonov/10--2-dars",
+    vercel: "https://10-2-dars.vercel.app/",
+  },
+  {
+    title: "intro-component-with-sign-up-form",
+    github: "https://github.com/naimjonov/10-darss",
+    vercel: "https://10-darss-rho.vercel.app/",
+  },
+  {
     title: "single-page",
     github: "https://github.com/naimjonov/design-solution-1",
     vercel: "https://design-solution-1-tznt.vercel.app/",
