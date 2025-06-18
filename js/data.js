@@ -1,5 +1,12 @@
 export default [
   {
+    title: "12-imtihon new",
+    github: "https://github.com/naimjonov/12---imtihon---figma",
+    vercel: "https://12-imtihon-figma.vercel.app/",
+  },
+
+
+  {
     title: "imtihon--2",
     github: "https://github.com/naimjonov/imtihon--2",
     vercel: "https://imtihon-2-five-omega.vercel.app/",
