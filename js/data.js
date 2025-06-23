@@ -1,5 +1,11 @@
 export default [
   {
+    title: "5 oy 2 dars",
+    github: "https://github.com/naimjonov/5-oy-2--dars",
+    vercel: "https://5-oy-2-dars-weld.vercel.app/",
+  },
+  
+  {
     title: "12-imtihon new",
     github: "https://github.com/naimjonov/12---imtihon---figma",
     vercel: "https://12-imtihon-figma.vercel.app/",
