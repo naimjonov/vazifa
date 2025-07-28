@@ -1,5 +1,10 @@
 export default [
   {
+    title: "6 oy 5 dars",
+    github: "https://github.com/naimjonov/6-5-vazifaa",
+    vercel: "https://6-5-vazifaa.vercel.app/",
+  },
+  {
     title: "6 oy 4 dars",
     github: "https://github.com/naimjonov/test",
     vercel: "https://64-vazifa.vercel.app/",
